@@ -85,6 +85,7 @@ main h2 {
 }
 main p {
     padding: 10px;
+    line-height: 2em;
 }
 aside {
     margin: 3px;
